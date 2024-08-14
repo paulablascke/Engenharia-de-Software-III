@@ -16,8 +16,6 @@ print("Product:")
 print(f"Cellphone: {cellphone}")
 print(f"Book: {book}")
 
-print("------" * 5)
-
 print("Sells:")
 print(f"Computer: {samsumg_galaxy}")
 print(f"Video Game: {video_game}")
